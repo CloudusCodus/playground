@@ -11,9 +11,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.3"
+    "express": "^4.22.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
+  },
+  "overrides": {
+    "qs": "^6.15.2"
   }
 }
